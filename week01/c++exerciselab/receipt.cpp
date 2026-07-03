@@ -1,43 +1,4 @@
-/*
-#include <iostream>
-int main(){
-    std::cout<<"enter a number: ";
-    int num;
-    std::cin>>num;
-    if(num%2==0){
-        std::cout<<"the number is even."<<std::endl;
-    }
-    else{
-        std::cout<<"the number is odd."<<std::endl;
-    }
-    return 0;
-}
-#include <iostream>
-int main(){
-    std::cout<<"enter the first number: ";
-    int num1;
-    std::cin>>num1;
-    std::cout<<"enter the second number: ";
-    int num2;
-    std::cin>>num2;
-    std::cout<<"enter the third number: ";
-    int num3;
-    std::cin>>num3;
-    std::cout<<"the average of the three numbers is: "<<(num1+num2+num3)/3.0<<std::endl;
-    return 0;
-}
-#include <iostream>
-int main(){
-    int CONST PI=3.14;
-    int CONST RADIUS;
-    std::cout<<"enter the radius of the circle: "<<std::endl;
-    std::cin>>RADIUS;
-    std::cout<<"the area of the circle is: "<<PI*RADIUS*RADIUS<<std::endl;
-    std::cout<<"the circumference of the circle is: "<<2*PI*RADIUS<<std::endl;
-    std::cout<<"the diameter of the circle is: "<<2*RADIUS<<std::endl;
-    return 0;
-}
-*/
+
 #include <iostream>
 int main(){
     const int SISE=100;
